@@ -1,0 +1,10 @@
+# Database Configuration
+DB_HOST=localhost
+DB_PORT=5439
+DB_USERNAME=admin
+DB_PASSWORD=password123
+DB_DATABASE=confluence_scraper
+
+# Application Configuration
+NODE_ENV=development
+PORT=3000 
